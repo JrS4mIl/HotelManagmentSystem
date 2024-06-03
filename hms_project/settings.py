@@ -37,6 +37,17 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'hotel',
+    'userauths',
+    'user_dashboard',
+    'addon',
+
+    'import_export',
+    'crispy_forms',
+    'mathfilters',
+    'ckeditor',
+    'taggit'
+
 ]
 
 MIDDLEWARE = [
